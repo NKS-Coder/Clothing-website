@@ -1,7 +1,9 @@
 # E-Commerce Store
 
-Fully responsive fictitious ecommerce website for a dummy company - Hannes & Co.  
+Fully responsive fictitious ecommerce website for a dummy company - NKS &Co. 
 
-Fully functional frontend, would have to integrate with a backend at some point to make it an actual working site where people can place fake orders and what not.  
+Partially functional frontend, have used a clean and a stylish interface for it.  
+Intending to expand it forward
+
 
 Users can neither Login nor Register in the account section atm.
