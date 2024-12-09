@@ -6,4 +6,6 @@ Partially functional frontend, have used a clean and a stylish interface for it.
 Intending to expand it forward
 
 
-Users can neither Login nor Register in the account section atm.
+Users can neither Login nor Register in the account section atm. 
+https://nks-coder.github.io/Clothing-website/
+
